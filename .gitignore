@@ -1,5 +1,4 @@
 .env
-data/embeddings.npy
 __pycache__/
 *.pyc
 .venv/
