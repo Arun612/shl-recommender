@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Verify G+ (General Ability)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-ability-verify-interactive-g/",
+    "test_types": ["A"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Measures general cognitive ability including numerical, verbal, and inductive reasoning. Used for graduate and professional-level roles requiring strong analytical and problem-solving skills.",
+    "duration": "36 minutes",
+    "languages": ["English", "French", "German", "Spanish", "Dutch", "Italian", "Portuguese", "Chinese", "Japanese"]
+  },
+  {
+    "name": "Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-reasoning-verify-interactive-n/",
+    "test_types": ["A"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Assesses the ability to analyze and interpret numerical data including graphs, tables, and charts. Suitable for roles requiring data analysis, finance, and business reasoning.",
+    "duration": "18 minutes",
+    "languages": ["English", "French", "German", "Spanish", "Dutch", "Italian", "Portuguese"]
+  },
+  {
+    "name": "Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-reasoning-verify-interactive-v/",
+    "test_types": ["A"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Measures the ability to understand and evaluate written information and draw conclusions. Suitable for roles requiring strong communication and analytical reading.",
+    "duration": "17 minutes",
+    "languages": ["English", "French", "German", "Spanish", "Dutch", "Italian", "Portuguese"]
+  },
+  {
+    "name": "Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/inductive-reasoning-verify-interactive-i/",
+    "test_types": ["A"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Assesses the ability to identify patterns and rules in abstract visual information, indicating fluid intelligence. Useful for roles requiring strategic thinking and innovation.",
+    "duration": "24 minutes",
+    "languages": ["English", "French", "German", "Spanish"]
+  },
+  {
+    "name": "Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/deductive-reasoning-verify-interactive-d/",
+    "test_types": ["A"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates the ability to draw logical conclusions from structured information. Used for roles requiring analytical decision making and logical thinking.",
+    "duration": "20 minutes",
+    "languages": ["English", "French", "German", "Spanish"]
+  },
+  {
+    "name": "Numerical Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-calculation-verify-nc/",
+    "test_types": ["A"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests speed and accuracy in basic numerical calculations without a calculator. Suited for clerical, operational, and administrative roles.",
+    "duration": "10 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Reading Comprehension",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-verify-rc/",
+    "test_types": ["A"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures the ability to understand and extract key information from written passages. Appropriate for roles requiring reading and interpretation of written material.",
+    "duration": "15 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Mechanical Comprehension",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-comprehension-verify-mc/",
+    "test_types": ["A"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses understanding of mechanical concepts, principles, and machinery. Relevant for engineering, manufacturing, maintenance, and technical roles.",
+    "duration": "25 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "OPQ32 (Occupational Personality Questionnaire)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Comprehensive personality questionnaire measuring 32 personality characteristics relevant to work behavior, leadership, teamwork, and interpersonal effectiveness. Industry-standard tool for selection and development.",
+    "duration": "25 minutes",
+    "languages": ["English", "French", "German", "Spanish", "Dutch", "Italian", "Portuguese", "Chinese", "Japanese", "Arabic", "Russian"]
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "A revised, shortened version of OPQ32 measuring key personality dimensions relevant to work performance. Balances depth of insight with efficiency. Good for high-volume recruitment.",
+    "duration": "20 minutes",
+    "languages": ["English", "French", "German", "Spanish", "Dutch", "Portuguese"]
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mq/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Identifies the conditions and factors that increase or decrease a person's motivation at work. Useful for selection, development, and team engagement initiatives.",
+    "duration": "25 minutes",
+    "languages": ["English", "French", "German", "Spanish", "Dutch"]
+  },
+  {
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses a candidate's suitability for remote or hybrid work environments, measuring self-management, communication, and digital collaboration skills.",
+    "duration": "10 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Global Skills Assessment (GSA)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "test_types": ["A", "P"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "description": "Comprehensive assessment of cognitive ability and behavioral traits for global workforce screening. Measures reasoning, agility, and interpersonal skills across cultures.",
+    "duration": "40 minutes",
+    "languages": ["English", "French", "German", "Spanish", "Chinese", "Japanese", "Portuguese", "Dutch", "Arabic"]
+  },
+  {
+    "name": "Java (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-new/",
+    "test_types": ["K"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests knowledge of Java programming including OOP concepts, data structures, collections, exceptions, multithreading, and Java 8+ features. Suitable for software developer roles.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_types": ["K"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses knowledge of Java 8 specific features including streams, lambdas, Optional, functional interfaces, and the new date/time API.",
+    "duration": "25 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_types": ["K"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Evaluates Python programming skills including data types, control flow, OOP, standard libraries, list comprehensions, decorators, and error handling.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "test_types": ["K"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests proficiency in SQL including SELECT queries, JOINs, aggregations, subqueries, indexes, and database design. Suitable for data analyst, DBA, and backend developer roles.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "test_types": ["K"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Covers JavaScript fundamentals, ES6+, DOM manipulation, async programming, closures, and modern JS patterns. For frontend and full-stack developer roles.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "C++ (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-plus-plus-new/",
+    "test_types": ["K"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses C++ programming including memory management, pointers, templates, STL, OOP, and modern C++11/14/17 features.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-sharp-new/",
+    "test_types": ["K"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Tests C# programming skills including .NET framework, LINQ, async/await, OOP principles, collections, and common design patterns.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Technology Professional 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Situational judgment and behavioral assessment for technology professionals. Evaluates problem solving, collaboration, and technical decision-making in realistic scenarios.",
+    "duration": "20 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Entry Level Sales 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1-international/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Job-focused assessment for entry-level sales roles measuring persuasion, customer focus, resilience, and results orientation in realistic sales scenarios.",
+    "duration": "35 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Customer Service 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-7-1-international/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Behavioral assessment for customer service roles measuring empathy, communication, problem-solving, and composure when dealing with difficult customers.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Supervisory 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/supervisory-7-1-international/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Job-focused assessment for supervisory and team leader roles covering delegation, performance management, conflict resolution, and planning.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Managerial & Professional 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-professional-8-0-job-focused-assessment/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Scenario-based assessment for managerial and professional candidates measuring leadership, strategic thinking, stakeholder management, and business judgment.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Graduate 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Designed for graduate-level candidates entering professional roles. Measures analytical thinking, communication, teamwork, and adaptability through realistic work scenarios.",
+    "duration": "20 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Administrative Professional 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-7-1-international/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses key competencies for administrative professionals including organization, attention to detail, communication, and prioritization.",
+    "duration": "25 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Call Center 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/call-center-7-1-international/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Job-focused assessment for call center roles measuring telephone communication skills, emotional resilience, multitasking ability, and service orientation.",
+    "duration": "25 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Retail 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/retail-7-1-international/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Scenario-based assessment for retail roles measuring customer interaction, sales behavior, teamwork, and adaptability in a retail environment.",
+    "duration": "25 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Workplace Personality Inventory (WPI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-personality-inventory-wpi/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures personality traits relevant to workplace performance including conscientiousness, teamwork, stress tolerance, and interpersonal sensitivity.",
+    "duration": "15 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Workplace Personality Inventory II (WPI II)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-personality-inventory-ii-wpi-ii/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Enhanced version of WPI providing richer personality profile for workplace fit. Measures dimensions including leadership potential, adaptability, and emotional stability.",
+    "duration": "20 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Situational Judgment Test (SJT) – Leadership",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgment-test-leadership/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Presents realistic leadership dilemmas and measures judgment in areas such as team development, conflict resolution, and driving results.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Smart Interview On-Demand",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-on-demand/",
+    "test_types": ["S"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "AI-powered video interview platform where candidates respond to structured interview questions. Enables asynchronous screening at scale with structured evaluation.",
+    "duration": "Variable",
+    "languages": ["English", "French", "German", "Spanish", "Dutch", "Italian"]
+  },
+  {
+    "name": "Coding Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation/",
+    "test_types": ["S", "K"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Hands-on coding simulation where candidates write, debug, or extend real code in a browser-based IDE. Evaluates practical software development skills.",
+    "duration": "60 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Microsoft Excel (Intermediate Level)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-2016-intermediate/",
+    "test_types": ["K", "S"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Practical simulation assessing intermediate Excel skills including VLOOKUP, pivot tables, charts, conditional formatting, and formulas.",
+    "duration": "45 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Microsoft Word (Intermediate Level)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-2016-intermediate/",
+    "test_types": ["K", "S"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses intermediate Word skills including formatting, styles, tables, mail merge, and document management.",
+    "duration": "30 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Financial Professional 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-8-0-job-focused-assessment/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Behavioral assessment for finance professionals measuring analytical judgment, risk awareness, compliance mindset, and stakeholder communication.",
+    "duration": "25 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Sales 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-7-1-international/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures sales competencies including prospecting, negotiation, closing, account management, and customer relationship building.",
+    "duration": "35 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Leadership Report (OPQ-based)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-report/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Uses OPQ results to generate a detailed leadership potential report covering transformational, operational, and people leadership dimensions.",
+    "duration": "25 minutes",
+    "languages": ["English", "French", "German", "Spanish"]
+  },
+  {
+    "name": "Universal Competency Framework (UCF) Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-ucf-report/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Generates a competency report from OPQ data aligned to SHL's Universal Competency Framework. Maps personality data to 20 competencies across 8 factors.",
+    "duration": "25 minutes",
+    "languages": ["English", "French", "German", "Spanish", "Dutch"]
+  },
+  {
+    "name": "Dependability & Safety Instrument (DSI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dependability-safety-instrument-dsi/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures behavioral tendencies related to safety compliance, reliability, rule-following, and honesty. Particularly relevant for safety-critical and operations roles.",
+    "duration": "15 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Agile Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-simulation/",
+    "test_types": ["S"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Simulates an Agile/Scrum work environment where candidates prioritize backlog items, handle sprint planning, and manage stakeholder expectations.",
+    "duration": "40 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "SHL Verify Interactive - Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-calculation/",
+    "test_types": ["A"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Assesses speed and accuracy in arithmetic calculations including addition, subtraction, multiplication, and division. Used for roles requiring quick numerical processing.",
+    "duration": "10 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "SHL Scenarios – Customer Focus",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-scenarios-customer-focus/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Short scenario-based assessment measuring customer-centric behaviors including empathy, service orientation, and problem resolution.",
+    "duration": "15 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "SHL Scenarios – Collaboration",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-scenarios-collaboration/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures collaborative behaviors such as sharing information, supporting teammates, conflict resolution, and inclusive communication.",
+    "duration": "15 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "SHL Scenarios – Communication",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-scenarios-communication/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Scenario-based assessment of written and verbal communication behaviors including clarity, listening, and adjusting communication style to the audience.",
+    "duration": "15 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "SHL Scenarios – Result Orientation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-scenarios-result-orientation/",
+    "test_types": ["B"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures drive, initiative, and results-focused behaviors including goal setting, persistence, and overcoming obstacles to deliver outcomes.",
+    "duration": "15 minutes",
+    "languages": ["English"]
+  },
+  {
+    "name": "Hogan Personality Inventory (HPI) – via SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hogan-personality-inventory/",
+    "test_types": ["P"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Measures normal personality characteristics predictive of job performance and career success across seven primary scales.",
+    "duration": "20 minutes",
+    "languages": ["English", "French", "German", "Spanish"]
+  },
+  {
+    "name": "Data Entry Accuracy",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-accuracy/",
+    "test_types": ["S"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "description": "Practical simulation measuring speed and accuracy in data entry tasks. Relevant for administrative, clerical, and back-office roles requiring precision.",
+    "duration": "10 minutes",
+    "languages": ["English"]
+  }
+]
