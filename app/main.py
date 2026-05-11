@@ -213,7 +213,7 @@ def call_llm(messages: list[Message], candidates: list[dict]) -> str:
     groq_messages.append({"role": "user", "content": last_content})
 
     response = groq_client.chat.completions.create(
-        model="gemma2-9b-it",
+        model="llama-3.1-8b-instant",
         messages=groq_messages,
         temperature=0.2,
         max_tokens=1024,
