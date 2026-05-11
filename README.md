@@ -6,7 +6,7 @@ Conversational agent that helps hiring managers find the right SHL assessments t
 
 ## Stack
 - **FastAPI** — stateless `/chat` + `/health` endpoints
-- **Groq (Llama-3.3-70b-versatile)** — LLM reasoning (free tier, no per-minute throttle)
+- **Groq (Llama-3.1-8b-instant)** — LLM reasoning (free tier, 14 400 req/day)
 - **Google gemini-embedding-001** — semantic retrieval via direct REST calls
 - **NumPy cosine similarity** — lightweight vector search (49-item catalog fits in RAM)
 - **Render** — free-tier deployment
