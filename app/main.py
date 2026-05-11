@@ -188,8 +188,14 @@ def extract_query(messages: list[Message]) -> str:
 def validate_recommendations(recs: list[dict]) -> list[dict]:
     valid = []
     for r in recs:
+        # Normalize test_type — 8B model sometimes returns test_types (plural) or a list
+        test_type = r.get("test_type") or r.get("test_types")
+        if isinstance(test_type, list):
+            test_type = test_type[0] if test_type else "A"
+        test_type = str(test_type) if test_type else "A"
+
         if r.get("url") in CATALOG_URLS:
-            valid.append(r)
+            valid.append({"name": r["name"], "url": r["url"], "test_type": test_type})
         else:
             name_lower = r.get("name", "").lower()
             if name_lower in CATALOG_NAMES:
@@ -197,7 +203,7 @@ def validate_recommendations(recs: list[dict]) -> list[dict]:
                 valid.append({
                     "name": item["name"],
                     "url": item["url"],
-                    "test_type": r.get("test_type", item["test_types"][0] if item["test_types"] else "A"),
+                    "test_type": test_type or (item["test_types"][0] if item["test_types"] else "A"),
                 })
             else:
                 logger.warning(f"Dropping hallucinated: {r.get('name')}")
