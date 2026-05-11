@@ -125,14 +125,13 @@ Every URL must be copied EXACTLY from the catalog.
 """
 
 def make_system_prompt(catalog: list[dict]) -> str:
+    # Minimal catalog in system prompt to save tokens
+    # Only name + url + test_types — retrieval candidates carry full detail
     compact = [
         {
             "name": item["name"],
             "url": item["url"],
             "test_types": item.get("test_types", []),
-            "description": item.get("description", "")[:200],
-            "duration": item.get("duration", ""),
-            "remote_testing": item.get("remote_testing", False),
         }
         for item in catalog
     ]
