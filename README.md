@@ -17,7 +17,7 @@ Conversational agent that helps hiring managers find the right SHL assessments t
 
 ```bash
 # 1. Clone and enter project
-git clone <your-repo>
+git clone https://github.com/Arun612/shl-recommender
 cd shl_recommender
 
 # 2. Install dependencies
