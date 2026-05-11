@@ -1,0 +1,5 @@
+GET health:
+curl https://shl-recommender-m7uo.onrender.com/health
+
+POST chat (PowerShell):
+Invoke-WebRequest -Method POST -Uri "https://shl-recommender-m7uo.onrender.com/chat" -ContentType "application/json" -Body '{"messages":[{"role":"user","content":"I need to hire a Java developer"}]}' | Select-Object -ExpandProperty Content
